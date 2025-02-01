@@ -17,5 +17,8 @@
 - 15기 신원철
 - 15기 한지은
 
+## 🔗 활동 내용
+- [딥러닝 기초 스터디](https://www.notion.so/BAF-178ca947139880f89f7fcb0a933762f6?pvs=4)
+
 ## 📚 참고 자료
 - [『밑바닥부터 시작하는 딥러닝』](https://github.com/won172/deep-learning-from-scratch)
