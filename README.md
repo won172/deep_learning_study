@@ -2,10 +2,10 @@
 딥러닝 개념 정리 및 실습 코드 공유를 위한 GitHub 저장소입니다.
 
 ## 📌 목차
-- [Chapter 1 : 헬로 파이썬](#-CHAPTER-1)
-- [Chapter 2 : 퍼셉트론](#-CHAPTER-2)
-- [Chapter 3 : 신경망](#-CHAPTER-3)
-- [Chapter 4 : 신경망 학습](#-CHAPTER-4)
+- [Chapter 1 : 헬로 파이썬(생략)](#-CHAPTER-1)
+- [Chapter 2 : 퍼셉트론](https://github.com/won172/deep_learning_study/blob/2b2b88c94f1d38d7f0074ac7147035f1b3070cae/2%EC%9E%A5.ipynb)
+- [Chapter 3 : 신경망](https://github.com/won172/deep_learning_study/blob/2b2b88c94f1d38d7f0074ac7147035f1b3070cae/3%EC%9E%A5.ipynb)
+- [Chapter 4 : 신경망 학습](https://github.com/won172/deep_learning_study/blob/2b2b88c94f1d38d7f0074ac7147035f1b3070cae/4%EC%9E%A5.ipynb)
 - [Chapter 5 : 오차역전파법](#-CHAPTER-5)
 - [Chapter 6 : 학습 관련 기술들](#-CHAPTER-6)
 - [Chapter 7 : 합성곱 신경망(CNN)](#-CHAPTER-7)
